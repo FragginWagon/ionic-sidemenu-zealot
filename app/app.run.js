@@ -1,4 +1,4 @@
-angular.module('shiftworx-alerts')
+angular.module('ionic-base-sidemenu')
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
     // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard

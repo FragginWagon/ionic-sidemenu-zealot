@@ -1,6 +1,6 @@
-angular.module('shiftworx-alerts').
+angular.module('ionic-base-sidemenu').
 controller('menuController', menuController);
 
 function menuController() {
-  
+
 }

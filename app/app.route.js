@@ -1,4 +1,4 @@
-angular.module('shiftworx-alerts')
+angular.module('ionic-base-sidemenu')
   .config(function($stateProvider, $urlRouterProvider) {
     $stateProvider
 
